@@ -8,6 +8,9 @@ This is the story of how and why we did it.
 
 Our goal is to open-source everything we have about Outernet, from half-baked ideas to our full itemised budget. No two events are the same but we hope that within this repository, you can find inspiration for your own special event. 
 
+## The Budget
+Our open source itemised budget is available [here!](https://docs.google.com/spreadsheets/d/1RA4ojnRJKjk-k70qUUMNP_pAZGF4_dJq8ZUuDgj0aw4/edit?usp=sharing). You can also view our transparent finances on [HCB](https://hcb.hackclub.com/outernet).
+
 ## The Concept
 
 Magical moments happen when we take people out of their comfort zone. We've run countless hackathons in flash indoor spaces, how about doing one outdoors? 
@@ -118,8 +121,7 @@ After everyone had shown off their projects to each other, we gathered in the to
 
 ## The Camping Experience
 
-Camping is incredible; the shared experience of it is able to bring people together in really special ways. A couple of weeks before Outernet, a bunch of us went camping for a night in Charlotte, VT. We danced around the campfire to music, toasted marshmallows, and chatted for hours around the campfire. We wanted to make sure everyone at Outernet had an equally magical time. We wanted to make sure everyone at Outernet had an equally magical time.
-
+Camping is incredible; the shared experience of it is able to bring people together in really special ways. A couple of weeks before Outernet, a bunch of us went camping for a night in Charlotte, VT. We danced around the campfire to music, toasted marshmallows, and chatted for hours around the campfire. We wanted to make sure everyone at Outernet had an equally magical time.
 ### Sleeping
 
 To start, everyone needed a place to sleep, and that meant acquiring tents and camping supplies for over 150 people. We worked with a local company called [KitLender](https://www.kitlender.com/) and hired a tent crew to help us with setup. KitLender provided us with a collection of six to twelve-person tents (we had them at approx. 75% capacity). They also provided each a hacker with a sleeping bag, a sleeping mat, a camping pillow, and a headlight.
@@ -220,7 +222,7 @@ We stuck it out together and I'll forever be both proud of and grateful for the 
 
 Outernet was made possible by dozens of Hack Clubbers. 
 
-A big thank you to [Alex](https://github.com/alexdevz), [Arav](https://github.com/tregsthedev), [Arianna](https://github.com/arianna-m), [B](https://github.com/Merlin04), [Belle](https://github.com/bellesea), [Ben](https://github.com/ma1ted), [Caleb](https://github.com/cjdenio), [Cheru](https://github.com/recursiveforte), [Christina](https://github.com/christinaasquith), [Conrad](https://github.com/conradev), [Daisy](https://github.com/daisybanks), [Dev](https://github.com/devenjadhav), Dieter, [Faisal](https://github.com/faisalsayed10), [Graham](https://github.com/grymmy), [Henry](https://github.com/HenryBass), [Holly](https://github.com/PellMellKid), [Hugo](https://github.com/Hugoyhu), [Ian](https://github.com/YodaLightsabr), [JC](https://github.com/jianmin-chen), [Kai](https://github.com/profsucrose), [Kara](https://github.com/karamassie), [Leo](https://github.com/leomcelroy), [Lexi](https://github.com/kognise), [Liv](https://github.com/hackliv), [Matt](https://github.com/northeastprince), [Max](https://github.com/maxwofford), [Mel](https://github.com/MelSmith104), Nila, [Reese](https://github.com/reesericci), [Ruien](https://github.com/Soar1826), [Ryan](https://github.com/ryanrudes), [Sahiti](https://github.com/sahitid), [Sam](https://github.com/sampoder), [Sarthak](https://github.com/sarthaktexas), [Shubham](https://github.com/ShubhamPatilsd), [Thomas](https://github.com/SerenityUX), [Toby](https://github.com/developedbytoby), [Woody](https://woodykeppel.com/), [Zach](https://github.com/zachlatta), and [Zoya](https://github.com/zoya-hussain). 
+A big thank you to [Alex](https://github.com/alexdevz), [Arav](https://github.com/radioblahaj), [Arianna](https://github.com/arianna-m), [B](https://github.com/Merlin04), [Belle](https://github.com/bellesea), [Ben](https://github.com/malted), [Caleb](https://github.com/cjdenio), [Cheru](https://github.com/recursiveforte), [Christina](https://github.com/christinaasquith), [Conrad](https://github.com/conradev), [Daisy](https://github.com/daisybanks), [Dev](https://github.com/devenjadhav), Dieter, [Faisal](https://github.com/faisalsayed10), [Graham](https://github.com/grymmy), [Henry](https://github.com/HenryBass), [Holly](https://github.com/PellMellKid), [Hugo](https://github.com/Hugoyhu), [Ian](https://github.com/YodaLightsabr), [JC](https://github.com/jianmin-chen), [Kai](https://github.com/profsucrose), [Kara](https://github.com/karamassie), [Leo](https://github.com/leomcelroy), [Lexi](https://github.com/kognise), [Liv](https://github.com/hackliv), [Matt](https://github.com/northeastprince), [Max](https://github.com/maxwofford), [Mel](https://github.com/MelSmith104), Nila, [Reese](https://github.com/reesericci), [Ruien](https://github.com/Soar1826), [Ryan](https://github.com/ryanrudes), [Sahiti](https://github.com/sahitid), [Sam](https://github.com/sampoder), [Sarthak](https://github.com/sarthaktexas), [Shubham](https://github.com/ShubhamPatilsd), [Thomas](https://github.com/SerenityUX), [Toby](https://github.com/developedbytoby), [Woody](https://woodykeppel.com/), [Zach](https://github.com/zachlatta), and [Zoya](https://github.com/zoya-hussain). 
 
 And thank you to Asa, Ben, Char, Colin, Dave, Dick, Duncan, Emily, Forrest, John, Lonny, [Matt](https://github.com/gleich), Mindy, Nick, Quillan, Rebecca, Randy, and Rob for their generous support.
 
